@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Music Game Demo](assets/MusicGame.gif)
+![Music Game Demo GIF](https://i.imgur.com/MzSRJGS.gifv)
 
 
 ## Reflection Questions
@@ -57,13 +57,13 @@ to see that I had basically the same code that was given to us, even if it was s
 logic problems for the future coding assignments.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[Since this was a beginner web development project that took several hours, how long is the typical web development project in the industry? When with a client that is requesting a web project,
+[Since this was a beginner web development project that took several hours, how long is the typical web development project in the industry? When working with a client that is requesting a web project,
 are there features that a web developer will refuse to implement because of time restrictions or its complicated nature or will they try to accommodate the client? What other languages can be 
 implemented in web-pages and are they commonly used in the industry/are certain languages preferred more than others? Why do people joke about web developers not being real developers? I certainly
 felt like I was doing a project in my Java intro to software design classes.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[If I had a few more hours to work on this project, I would spend them adding words inside the circle that do not correspond to the color of the circle, in order to trick the user. By words that are not the color
+[If I had a few more hours to work on this project, I would spend them adding words inside the circle that do not correspond to the color of the circle, in order to trick the user. By using words that are not the color
 of the circle, I would hope that it would trick the user into choosing the wrong colored circle. Another feature I would add, is to create more circles and place them randomly on the page so that it is not in a row, 
 and every time it goes to the next turn if the user is correct, the circles would randomly change location on the page. ]
 
