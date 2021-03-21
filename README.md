@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Music Game Demo GIF](.glitch-assets/MusicGame.gif)
+![Music Game Demo GIF](https://i.imgur.com/MzSRJGS.gif)
 
 
 ## Reflection Questions
