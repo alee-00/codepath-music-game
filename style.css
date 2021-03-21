@@ -1,0 +1,79 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: darkseagreen;
+  color: yellow; 
+}
+
+h1 {
+  font-style: italic;
+  color: #008080;
+  font-family: courier new, arial, sans-serif; 
+}
+
+button {
+  padding: 20px;
+  border-radius: 150px;
+}
+
+#gameButtonArea > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+.hidden {
+  display: none;
+}
+
+/*gives the button colors*/
+#button1 {
+  background: lightgreen;
+}
+
+#button2 {
+  background: lightblue;
+}
+
+#button3 {
+  background: pink;
+}
+
+#button4 {
+  background: lightyellow;
+}
+
+#button5 {
+  background: lavender;
+}
+
+#button6 {
+  background: gold;
+}
+
+/*lights up when button is clicked up playing sound*/
+#button1:active, #button1.lit {
+  background: green;
+}
+
+#button2:active, #button2.lit {
+  background: blue;
+}
+
+#button3:active, #button3.lit {
+  background: red;
+}
+
+#button4:active, #button4.lit {
+  background: yellow;
+}
+
+#button5:active, #button5.lit {
+  background: purple;
+}
+
+#button6:active, #button6.lit {
+  background: orange;
+}
