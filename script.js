@@ -38,7 +38,7 @@ function stopGame() {
 //function to generate a random pattern of button presses
 function genRandom() {
   var i = 0;
-  for (i=0; i <= 7; i++){
+  for (i=0; i <= 8; i++){
     pattern[i] = Math.floor(Math.random() * 6) + 1;           //generates a random number between 1 and 6 inclusive and sets the array at spot i to that random number
   }
 }
