@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 * [] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [Yes] More than 4 functional game buttons
 * [Yes] Playback speeds up on each turn
-* [] Computer picks a different pattern each time the game is played
+* [Yes] Computer picks a different pattern each time the game is played
 * [] Player only loses after 3 mistakes (instead of on the first mistake)
 * [] Game button appearance change goes beyond color (e.g. add an image)
 * [] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
@@ -44,7 +44,8 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[I did not use any outside resources to help me complete my submission other than the links provided to us to look up different fonts and CSS colors]
+[Other than the links provided to change font and font colors, the only other resource I used was w3schools to see how the Math.random() function worked in ordered to add
+the option feature to create a random pattern everytime the game is played.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [The hardest challenge for me was to figure out the logic if buttons were guessed correctly or incorrectly. I spent about 2 hours trying to figure it out as logic is not my strong suit
