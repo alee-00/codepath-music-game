@@ -45,7 +45,7 @@ Here's a walkthrough of implemented user stories:
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 [Other than the links provided to change font and font colors, the only other resource I used was w3schools(https://www.w3schools.com/js/js_random.asp) to see how the Math.random() function worked in ordered to add
-the option feature to create a random pattern everytime the game is played.]
+the optional feature to create a random button pattern everytime the game is played.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [The hardest challenge for me was to figure out the logic if buttons were guessed correctly or incorrectly. I spent about 2 hours trying to figure it out as logic is not my strong suit
