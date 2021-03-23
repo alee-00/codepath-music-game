@@ -3,7 +3,7 @@ const cluePauseTime = 333;                //how long to pause in between each cl
 const nextClueWaitTime = 1000;            //how long to wait before starting playback of the next clue sequence in milliseconds
 
 //Global Variables
-var pattern = [2, 2, 4, 3, 2, 1, 2, 4, 6, 5, 3]    //keeps track of secret pattern of button presses
+var pattern = [];                         //keeps track of secret pattern of button presses
 var progress = 0;                         //assigned an integer that represents how far along the player is in guessing the pattern
 var gamePlaying = false;                  //assigned a boolean value that will keep track of whether game is active or not
 var tonePlaying = false;                  //assigned a boolean value that shows whether sound is playing or not
@@ -13,6 +13,7 @@ var clueHoldTime = 1500;                  //how long to hold each note, changes 
 
 function startGame() {
   //initialize game variables
+  genRandom();
   clueHoldTime = 1500;
   progress = 0;
   gamePlaying = true;
@@ -32,6 +33,14 @@ function stopGame() {
   //swaps end to start button
   document.getElementById("startBtn").classList.remove("hidden");
   document.getElementById("stopBtn").classList.add("hidden");
+}
+
+//function to generate a random pattern of button presses
+function genRandom() {
+  var i = 0;
+  for (i=0; i <= 7; i++){
+    pattern[i] = Math.floor(Math.random() * 6) + 1;           //generates a random number between 1 and 6 inclusive and sets the array at spot i to that random number
+  }
 }
 
 // Sound Synthesis Functions
