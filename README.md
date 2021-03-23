@@ -44,7 +44,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[Other than the links provided to change font and font colors, the only other resource I used was w3schools to see how the Math.random() function worked in ordered to add
+[Other than the links provided to change font and font colors, the only other resource I used was w3schools(https://www.w3schools.com/js/js_random.asp) to see how the Math.random() function worked in ordered to add
 the option feature to create a random pattern everytime the game is played.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
