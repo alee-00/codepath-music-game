@@ -59,9 +59,8 @@ logic problems for the future coding assignments.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [Since this was a beginner web development project that took several hours, how long is the typical web development project in the industry? When working with a client that is requesting a web project,
-are there features that a web developer will refuse to implement because of time restrictions or its complicated nature or will they try to accommodate the client? What other languages can be 
-implemented in web-pages and are they commonly used in the industry/are certain languages preferred more than others? Why do people joke about web developers not being real developers? I certainly
-felt like I was doing a project in my Java intro to software design classes.]
+are there features that a web developer will try to avoid implementing because of time restrictions or its complicated nature or will they try to accommodate the client? What other languages can be 
+implemented in web-pages and are they commonly used in the industry/are certain languages preferred more than others? What other high-level projects seen in the industry can JavaScript, HTML, and CSS achieve together besides web browser games?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [If I had a few more hours to work on this project, I would spend them adding words inside the circle that do not correspond to the color of the circle, in order to trick the user. By using words that are not the color
